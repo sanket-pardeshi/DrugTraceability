@@ -1,0 +1,23 @@
+Block
+- Transaction ID- Date
+- Current Path
+- Total Path
+- Data
+
+
+Supply Chain :
+Manufacturer
+Distributor
+Pharmacist
+Patient
+
+
+13042023
+Crocin
+Distributor
+14042023
+Crocin
+Pharmacist
+15042023
+Crocin
+Patient
